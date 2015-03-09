@@ -1,0 +1,29 @@
+<scene previous_export_time="0" export_time="1423873527.263846" formatVersion="1.0.1" exported_by="hermanmak" >
+  <nodes >
+    <node name="MilkShape3D Skele" >
+      <position z="-0.000000" x="0.000000" y="0.000000" />
+      <rotation qw="1.000000" qy="0.000000" qx="0.000000" qz="-0.000000" />
+      <scale z="1.000000" x="1.000000" y="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <node name="MilkShape3D Mesh.001" >
+        <position z="-0.000000" x="0.000000" y="0.000000" />
+        <rotation qw="1.000000" qy="0.000000" qx="0.000000" qz="-0.000000" />
+        <scale z="1.000000" x="1.000000" y="1.000000" />
+        <game >
+          <sensors />
+          <actuators />
+        </game>
+        <entity meshFile="MilkShape3D Mesh.001.mesh" lock_trans_x="False" mass="1.0" ghost="False" velocity_max="0.0" mass_radius="1.0" inertia_tensor="0.4000000059604645" actor="False" lock_trans_y="False" lock_rot_z="False" lock_rot_y="False" damping_rot="0.10000000149011612" damping_trans="0.03999999910593033" friction_y="1.0" velocity_min="0.0" friction_x="1.0" physics_type="STATIC" name="MilkShape3D Mesh.001" lock_trans_z="False" anisotropic_friction="False" friction_z="1.0" lock_rot_x="False" />
+      </node>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="/Users/hermanmak/Downloads/test/monster.001.material" />
+    </item>
+  </externals>
+  <environment />
+</scene>

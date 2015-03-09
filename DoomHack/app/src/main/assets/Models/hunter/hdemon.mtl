@@ -1,0 +1,84 @@
+# Blender MTL File: 'hunter.blend'
+# Material Count: 7
+
+newmtl m_eyes_CH01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_hunter_eye_d.tga
+map_Disp t_eye_n.tga
+
+newmtl m_hunterGears_CH01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_hunter_gears_d.tga
+map_Disp t_hunter_gears_n.tga
+map_Ks t_hunter_gears_s.tga
+
+newmtl m_hunterHair_CH01_masked_noTransmission
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_hunter_hair_dm.tga
+map_Disp t_hunter_hair_n.tga
+map_Ks t_hunter_hair_s.tga
+
+newmtl mi_hunterBody_CH01OPT
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_hunter_body_d.tga
+map_Disp t_hunter_body_n.tga
+map_Tr t_hunter_body_m.tga
+
+newmtl mi_hunterBody_CH01OPT.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_hunter_body_d.tga
+map_Disp t_hunter_body_n.tga
+map_Ks t_hunter_body_s.tga
+map_Tr t_hunter_body_m.tga
+
+newmtl mi_hunterFace_CH01OPT
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_hunter_face_d.tga
+map_Disp t_hunter_face_n.tga
+map_Tr t_hunter_face_m.tga
+map_Ks t_hunter_face_s.tga
+
+newmtl mi_hunterFace_CH01OPT.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
